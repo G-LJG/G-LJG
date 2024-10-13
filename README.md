@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @G-LJG
 - 👀 I’m interested in ... developing apps within the Git framework
-- 🌱 I’m currently learning ... C#, Java, web apps
+- 🌱 I’m currently learning ... C#, Java, Javascript, web apps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... gljg340@gmail.com
 - 😄 Pronouns: ... HE/HIM
